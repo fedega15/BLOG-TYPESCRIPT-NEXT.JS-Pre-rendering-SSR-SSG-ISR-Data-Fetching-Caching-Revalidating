@@ -1,6 +1,6 @@
 ---
 title: 'Data Fetching, Caching, and Revalidating'
-date: '2023-04-19'
+date: '2023-10-24'
 ---
 Data fetching is a core part of any application. This page goes through how you can fetch, cache, and revalidate data in React and Next.js.
 
